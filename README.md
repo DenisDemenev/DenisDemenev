@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://vk.com/rek.adwords">
-    <img src="https://img.shields.io/badge/-VK-blue" alt="ВКонтакте"/>
+    <img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vkontakte&logoColor=white" alt="ВКонтакте"/>
   </a>
   <a href="https://t.me/DemenevD">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram"/>
