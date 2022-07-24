@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center>
+<div id="badges" align="center">
   <a href="https://vk.com/rek.adwords">
-    <img src="https://img.shields.io/badge/-%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue" alt="ВКонтакте"/>
+    <img src="https://img.shields.io/badge/-VK-blue" alt="ВКонтакте"/>
   </a>
   <a href="https://t.me/DemenevD">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram"/>
