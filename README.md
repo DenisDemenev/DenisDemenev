@@ -4,8 +4,7 @@
 
 <div id="badges">
   <a href="https://vk.com/rek.adwords">
-    <img src="https://img.shields.io/badge/VK-%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue
-" alt="ВКонтакте"/>
+    <img src="https://img.shields.io/badge/VK-%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue" alt="ВКонтакте"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
