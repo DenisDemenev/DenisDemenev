@@ -6,7 +6,7 @@
   <a href="https://vk.com/rek.adwords">
     <img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=VKontakte&logoColor=white" alt="ВКонтакте"/>
   </a>
-  <a href="https://t.me/DemenevD">
+  <a href="https://t.me/DemenevD" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
